@@ -1,0 +1,15 @@
+wizard DDR
+
+x - element of spell
+o - opposite element
+
+summon orb
+xxxoxxxo
+
+shield
+xxxx
+
+attacks
+level 1 - xxoo
+level 2 - xxoxxoo
+level 3 - xxoxxoxxo
